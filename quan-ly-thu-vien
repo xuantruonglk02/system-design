@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T17:11:55.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" version="20.8.23" etag="jQkrNRiKFERRyVIHAj36" type="github"><diagram name="Page-1" id="_t_UijdEw--CEhD-A7Dw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-01T17:15:54.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="GuBn5UViilTNs-DWOWIY" version="20.8.23" type="github">
+  <diagram name="DFD-ngu-canh" id="_t_UijdEw--CEhD-A7Dw">
+    <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-4" value="Cập nhật danh mục đầu sách" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="-XaMqlAlIOQhFLR8DDIg-1" target="-XaMqlAlIOQhFLR8DDIg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-1" value="Thủ thư" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-7" value="Xử lý yêu cầu của độc giả" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="-XaMqlAlIOQhFLR8DDIg-2" target="-XaMqlAlIOQhFLR8DDIg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-8" value="Phản hồi yêu cầu" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="-XaMqlAlIOQhFLR8DDIg-2" target="-XaMqlAlIOQhFLR8DDIg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-2" value="Hệ thống quản lý thư viện" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="480" y="329" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-6" value="Yêu cầu mượn sách" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="-XaMqlAlIOQhFLR8DDIg-3" target="-XaMqlAlIOQhFLR8DDIg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-XaMqlAlIOQhFLR8DDIg-3" value="Độc giả" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="900" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
