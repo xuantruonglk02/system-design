@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T17:07:04.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="YoTUsfzONIM8pkqiHNwU" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T17:07:31.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57" etag="772Sh-myEoeQ13Ym96xt" version="20.8.23" type="github">
   <diagram name="DFD-ngu-canh" id="xmHQQJq3W_-gYxtr6FeU">
-    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
